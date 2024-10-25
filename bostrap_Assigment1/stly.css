@@ -1,0 +1,21 @@
+.footer {
+    background-color: black;
+    color: white;
+    
+  }
+  
+  .foot {
+  
+  
+  
+    display: flex;
+    gap: 93px;
+    margin-left: 53px;
+  
+  }
+  
+  .down {
+  
+    margin-left: 400px;
+  }
+  
